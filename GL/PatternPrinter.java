@@ -11,7 +11,7 @@ class PatternPrinter {
 		int freq = n ;
 		
 		while(freq > 0) {
-			for(int i=n;i>0;i++) {
+			for(int i=n;i>0;i--) {
 				for(int j=0;j<freq;j++) {
 					System.out.print(i+" ");
 				}

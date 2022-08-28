@@ -7,4 +7,4 @@ Question 2: Find Missing Number
 
 Question 3: Pattern Printer
 
-Just included the solutions of the 3 questions , For execution need to copy the solution and run in ide/comman-line .
+Just included the solutions of the 3 questions , For execution kindly copy the solution and run in ide/comman-line .
